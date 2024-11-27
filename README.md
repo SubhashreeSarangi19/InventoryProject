@@ -35,11 +35,3 @@ An advanced **Inventory Management System** implemented in Java, utilizing the *
 ---
 
 
-InventorySystem/
-│
-├── Item.java                  # Defines the Item class
-├── InventorySystem.java       # Core inventory logic
-├── InventorySystemTest.java   # Interactive console interface
-├── README.md                  # Project documentation
-
-
